@@ -40,13 +40,13 @@ Test5: After 350ms total, longer expired as well (get()==nullptr)
 All tests passed.
 ```
 📁 Files Included
-TimedSharedPtr.cpp – main implementation and unit tests
+- TimedSharedPtr.cpp – main implementation and unit tests
 
-README.md – this file
+- README.md – this file
 
-Documentation.pdf  – explanation + UML diagram
+- Documentation.pdf  – explanation + UML diagram
 
-Demo.mp4 (optional) – brief video showing example runs
+- Demo.mp4  – brief video showing example runs
 
 📹 Demo Video
 Included in the submission zip is a brief video (Demo.mp4) that shows the unit tests running, demonstrating expiration behavior in real time.
