@@ -39,7 +39,7 @@ Test5: After 150ms, shorter expired (get()==nullptr), longer still valid
 Test5: After 350ms total, longer expired as well (get()==nullptr)
 All tests passed.
 ```
-📁 Files Included
+## 📁 Files Included
 - TimedSharedPtr.cpp – main implementation and unit tests
 
 - README.md – this file
@@ -48,19 +48,19 @@ All tests passed.
 
 - Demo.mp4  – brief video showing example runs
 
-📹 Demo Video
-Included in the submission zip is a brief video (Demo.mp4) that shows the unit tests running, demonstrating expiration behavior in real time.
+## 📹 Demo Video
+- Included in the submission zip is a brief video (Demo.mp4) that shows the unit tests running, demonstrating expiration behavior in real time.
 
-⚙️ Build Instructions
+## ⚙️ Build Instructions
 Compile using a C++17 or newer compiler:
 
 
-g++ -std=c++17 TimedSharedPtr.cpp -o timed_shared_ptr
-./timed_shared_ptr
-🤖 AI Usage Disclosure
+- g++ -std=c++17 TimedSharedPtr.cpp -o timed_shared_ptr
+- ./timed_shared_ptr
+## 🤖 AI Usage Disclosure
 This implementation was partially assisted by OpenAI ChatGPT (GPT-4) for generating draft code and documentation. All code was critically reviewed, tested, and refined by the student, and additional value was added through independent testing, restructuring, and detailed documentation.
 
-🧑‍🎓 Author
+## 🧑‍🎓 Author
 Name: Ahmed Abdelghany
 
 Lab: Final Exam
