@@ -23,7 +23,8 @@ std::this_thread::sleep_for(std::chrono::milliseconds(150));
 if (p.get() == nullptr) {
     std::cout << "Pointer has expired.\n";
 }
-✅ Unit Test Output
+
+## ✅ Unit Test Output
 TimedSharedPtr Unit Tests
 Test1: Before expiration, get() returns non-null (value = 42)
 Test2: After expiration, get() returns nullptr
