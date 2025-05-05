@@ -66,3 +66,14 @@ Name: Ahmed Abdelghany
 Lab: Final Exam
 
 Course: CSE3150
+
+
+## Added Files
+- `TimedSharedPtr.h`: Header file with class template implementation.
+- `test_TimedSharedPtr.cpp`: Unit tests demonstrating functionality.
+
+### Build & Run
+```bash
+g++ -std=c++17 TimedSharedPtr.cpp test_TimedSharedPtr.cpp -o test_tsp
+./test_tsp
+```
